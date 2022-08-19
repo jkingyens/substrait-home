@@ -1,9 +1,9 @@
 theme = "black-and-light"
 relativeURLs = true
 baseURL = "/"
-title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+title = "Substrait, LLC"
+author = "Jeff Kingyens"
+copyright = "Copyright © 2022, Jeff Kingyens; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
